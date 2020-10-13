@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    ["styled-components"]
+  ],
+  "presets": [
+    ["@babel/env"],
+    ["@babel/react"],
+    ["@babel/typescript"]
+  ]
+}
